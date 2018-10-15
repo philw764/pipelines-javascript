@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ctog/devopstest/_apis/build/status/philw764.pipelines-javascript)](https://dev.azure.com/ctog/devopstest/_build/latest?definitionId=2)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
